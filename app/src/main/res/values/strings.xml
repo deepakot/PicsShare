@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PicsShare</string>
+    <string name="facebook_app_id">267644663841088</string>
+    <string name="fb_login_protocol_scheme">fb267644663841088</string>
+    <string name="action_settings">Settings</string>
+    <string name="server_client_id">29710494056-s9ogcpn1f42of2rstos8lu43sjm8r25j.apps.googleusercontent.com</string>
+    <string name="server_widget_url">http://www.google.com</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="server_client_id_web">29710494056-s9ogcpn1f42of2rstos8lu43sjm8r25j.apps.googleusercontent.com</string>
+    <string name="title_activity_welcome">PicsShare</string>
+    <string name="welcome_screen_text">Welcome to PicsShare</string>
+    <string name="explore_button_text">explore</string>
+    <string name="sign_in_button_text">sign in</string>
+    <string name="sign_out_button_text">sign out</string>
+    <string name="show_feed_button_text">show feed</string>
+    <string name="drawer_profile_title">Profile</string>
+    <string name="drawer_settings_title">Settings</string>
+    <string name="drawer_your_feed_title">Your Feed</string>
+    <string name="title_activity_comments">CommentsActivity</string>
+    <string name="title_activity_new_post">New Post</string>
+    <string name="invite_friends_button_text">Invite your friends</string>
+    <string name="my_posts_button_text">My posts</string>
+    <string name="title_activity_user_detail">UserDetailActivity</string>
+    <string name="follow_user_error">Unable to follow user.</string>
+    <string name="picture_chooser_title">Select or take picture to post</string>
+    <string name="new_comment_hint">Enter new comment</string>
+    <string name="user_info_no_name">Unknown user</string>
+    <string name="error_required_field">Required</string>
+    <string name="error_upload_task_create">Couldn\'t create upload task.</string>
+    <string name="default_progress_message">Please wait...</string>
+    <string name="profile_progress_message">Signing in...</string>
+    <string name="post_upload_progress_message">Uploading...</string>
+    <string name="user_logged_out_error">You must be logged in to do that.</string>
+    <string name="error_user_not_signed_in">Error user not signed in.</string>
+    <string name="button_ok">OK</string>
+    <string name="loading">Loading...</string>
+    <string name="error_authentication">Authentication failed</string>
+    <string name="internet_connection_failed">No internet connection</string>
+
+</resources>

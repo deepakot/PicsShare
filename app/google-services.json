@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29710494056",
+    "firebase_url": "https://picsshare-4fb37.firebaseio.com",
+    "project_id": "picsshare-4fb37",
+    "storage_bucket": "picsshare-4fb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29710494056:android:36e9082b04bb5b97",
+        "android_client_info": {
+          "package_name": "com.agrostar.deepak.picsshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29710494056-2d28ccm4fgnci2lsrpafcvkg3mkkhkdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agrostar.deepak.picsshare",
+            "certificate_hash": "f34efa7c11c1c638f3d56005c5067db601b6ce40"
+          }
+        },
+        {
+          "client_id": "29710494056-s9ogcpn1f42of2rstos8lu43sjm8r25j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ90U-AoNUgkUwmDpx6BntbB_pnwPhfII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29710494056-s9ogcpn1f42of2rstos8lu43sjm8r25j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
